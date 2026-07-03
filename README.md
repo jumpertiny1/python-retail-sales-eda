@@ -18,4 +18,4 @@ The analysis flags discount thresholds by category, particularly Furniture, as a
 Python, pandas, matplotlib, seaborn, Power BI
 
 ## Dashboard Preview
-![Superstore Sales & Profit Dashboard](dashboard.png)
+![Superstore Sales & Profit Dashboard](python-retail-sales-eda-dashboard.png)
